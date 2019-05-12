@@ -1,5 +1,4 @@
 public class IsRight {
-    Triangle triangle;
 
     int square(int a) {
         int sqr = a * a;
